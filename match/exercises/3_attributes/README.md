@@ -1,0 +1,12 @@
+# Getting to Know Match - EXERCISES
+
+Used on the [Attributes Exercises](https://learning.internet2.edu/courses/96/pages/set-up-matchgrids?module_item_id=3167) of training in Canvas.
+
+Images included in this collection:
+
+| File name | Description |
+| --- | --- |
+| [Matchgrid_Records.png](https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/Matchgrid_Records.png?raw=true) | Screenshot of Matchgrid without Records. <img src="https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/Matchgrid_Records.png?raw=true" alt="Screenshot of Matchgrid without Records" title="Screenshot of Matchgrid without Records." /> |
+| [no_Isa_as_query.png](https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/no_Isa_as_query.png?raw=true) | Screenshot of Attribute Map with a lack of 'Isa' as a Qurey entry. <img src="https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/no_Isa_as_query.png?raw=true" alt="Isa does not exist as a Query entry in the Attribute Map" title="Screenshot of Attribute Map with a lack of 'Isa' as a Qurey entry." /> |
+| [no_Isa_as_value.png](https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/no_Isa_as_value.png?raw=true) | Screenshot of Attribute Map with a lack of 'Isa' as a Value entry. <img src="https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/no_Isa_as_value.png?raw=true" alt="Isa does not exist as a Value entry in the Attribute Map" title="Screenshot of Attribute Map with a lack of 'Isa' as a Value entry." /> |
+| [no_Isa.png](https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/no_Isa.png?raw=true) | Screenshot of Attribute Map with a lack of 'Isa' as Values for the Queries of Isabel or Isabella <img src="https://github.internet2.edu/InCommon-Training/comanage-files/blob/master/match/exercises/3_attributes/no_Isa.png?raw=true" alt="Isa does not exist as a Value entry in the Attribute Map for Isabel or Isabella." title="Screenshot of Attribute Map with a lack of 'Isa' as Values for the Queries of Isabel or Isabella." /> |
